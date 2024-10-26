@@ -1,5 +1,5 @@
-base_url = "https://qa-scooter.praktikum-services.ru/"
-order_url = base_url + "order"
-track_url = base_url + "track"
-dzen_url = "https://dzen.ru/?yredirect=true"
+BASE_URL = "https://qa-scooter.praktikum-services.ru/"
+ORDER_URL = BASE_URL + "order"
+TRACK_URL = BASE_URL + "track"
+DZEN_URL = "https://dzen.ru/?yredirect=true"
 
